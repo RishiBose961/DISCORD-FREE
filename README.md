@@ -178,7 +178,3 @@ bun run dev  # or npm run dev
 4. Copy the 6-character Invite Code displayed at the top of the server channel list and join the server from the second user.
 5. Click on `🔊 General Voice` or `🎥 Video Lounge` in both windows. Allow microphone and camera access.
 6. You will see both participants connected in the video grid, with real-time peer-to-peer audio/video stream and active speaking green border indicators!
-#   D I S C O R D - F R E E  
- #   D I S C O R D - F R E E  
- #   D I S C O R D - F R E E  
- 
