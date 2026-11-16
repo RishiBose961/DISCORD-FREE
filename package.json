@@ -1,0 +1,15 @@
+{
+  "name": "discordx",
+  "version": "1.0.0",
+  "description": "Discord-like chat, room, talk, and WebRTC video call platform",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:socket": "cd socket-server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "start:server": "cd server && npm start",
+    "start:socket": "cd socket-server && npm start",
+    "start:client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "dev": "node start-dev.js"
+  }
+}

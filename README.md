@@ -180,4 +180,5 @@ bun run dev  # or npm run dev
 6. You will see both participants connected in the video grid, with real-time peer-to-peer audio/video stream and active speaking green border indicators!
 #   D I S C O R D - F R E E  
  #   D I S C O R D - F R E E  
+ #   D I S C O R D - F R E E  
  
